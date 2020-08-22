@@ -2,7 +2,7 @@ my:
   greeting: Hello from Config Serve
 
 app:
-  name: My App1
+  name: My App1111
   description: Welcome to ${app.name}
 
 db:
