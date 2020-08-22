@@ -1,0 +1,3 @@
+my:
+  greeting: Hello from spring-cloud-config-client specific file
+
