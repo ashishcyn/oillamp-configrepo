@@ -1,0 +1,11 @@
+my:
+  greeting: Hello from Config Serve
+
+app:
+  name: My App
+  description: Welcome to ${app.name}
+
+db:
+  connection: connection-string-from-config-server
+  host: 127.0.0.1
+  port: 1200
