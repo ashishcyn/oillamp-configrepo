@@ -1,0 +1,2 @@
+# oillamp-configrepo
+Config repo
